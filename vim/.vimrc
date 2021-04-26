@@ -32,3 +32,4 @@ let @n="/@@namedwdwhi "
 let @a="/@@argsdwdwi" 
 let @b="/@@bodydwdwa" 
 let @t=":%s/\t/    /g"
+let @s="vey/\"Nk"
